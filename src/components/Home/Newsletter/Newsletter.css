@@ -1,0 +1,12 @@
+.newsletter{
+    background: linear-gradient(rgba(44, 23, 0, 0.4),rgba(44, 23, 0, 0.4)), url('../../../assets/newsletter.jpg');
+    width: 100%;
+    height: 65vh;
+    background-size: cover;
+    background-position: center;
+}
+@media (max-width:900px) {
+    .newsletter{
+        height: 45vh;        
+    }    
+}

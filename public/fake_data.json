@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/NLRzdDV/img-1-1.jpg",
+        "title": "Modern Apartment in City Center",
+        "description": "This modern apartment is located in the heart of the city, offering both convenience and style. With 1200 square feet of living space, it features three spacious bedrooms, each designed with comfort in mind. The master bedroom includes an en-suite bathroom, while the other two bedrooms share a well-appointed family bathroom. The open-plan layout seamlessly connects the living room and dining area, creating a perfect space for entertaining. Large windows throughout the apartment provide abundant natural light and views of the urban landscape. The kitchen is equipped with modern appliances, sleek cabinetry, and a breakfast bar. Additional amenities include a single-car garage for secure parking. Situated close to shops, restaurants, and public transport, this apartment is ideal for urban dwellers seeking a vibrant lifestyle with all conveniences within reach.",
+        "price": 250000,
+        "bathrooms": 2,
+        "garage": 1,
+        "bedrooms": 3,
+        "sq_ft": 1200
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/87cdWXg/img-1-2.jpg",
+        "title": "Cozy Cottage",
+        "description": "Escape to this charming cottage, nestled in a peaceful neighborhood. With 900 square feet of living space, it offers two cozy bedrooms, perfect for a small family or couple. The cottage features a single bathroom with modern fixtures and a comfortable living room adorned with a fireplace for warmth and ambiance. The kitchen is fully equipped with all necessary appliances and ample storage space. One of the highlights of this property is its beautifully maintained garden, providing a serene outdoor retreat. A single-car garage ensures convenient parking. Located near schools, parks, and shopping centers, this cottage offers a tranquil lifestyle while remaining close to essential amenities.",
+        "price": 180000,
+        "bathrooms": 1,
+        "garage": 1,
+        "bedrooms": 2,
+        "sq_ft": 900
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/hXZpN78/img-1-3.jpg",
+        "title": "Luxurious Suburban Home",
+        "description": "Embrace luxury living with this spacious suburban home spanning 3500 square feet. It boasts five bedrooms, each generously sized to accommodate large families or guests. The master suite features a walk-in closet and a lavish en-suite bathroom with a soaking tub and separate shower. Other bedrooms are equally well-appointed, ensuring comfort and privacy. The gourmet kitchen is a chef's delight, equipped with high-end appliances, granite countertops, and a large island for casual dining. The home includes a formal dining room, a cozy family room with a fireplace, and a dedicated home office. Outside, enjoy a landscaped yard, a patio, and a swimming pool for outdoor entertainment. With a three-car garage, there's ample space for vehicles and storage. Located in a prestigious neighborhood, this home offers top-notch schools and amenities for a premium suburban lifestyle.",
+        "price": 750000,
+        "bathrooms": 4,
+        "garage": 3,
+        "bedrooms": 5,
+        "sq_ft": 3500
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/MDMVfKj/img-1-4.jpg",
+        "title": "Charming Bungalow",
+        "description": "Step into this charming bungalow offering 1500 square feet of comfortable living space. It features three bedrooms, each designed to provide a cozy retreat. The master bedroom boasts an en-suite bathroom, while the remaining bedrooms share a well-appointed family bathroom. The living room is a welcoming space with a fireplace, ideal for relaxation. The kitchen is equipped with modern appliances and ample counter space for meal preparation. Outside, the property includes a beautiful backyard perfect for outdoor activities. A single-car garage provides secure parking. Situated in a quiet neighborhood, this bungalow offers proximity to local schools, parks, and shopping, making it an ideal choice for families or those looking to downsize.",
+        "price": 300000,
+        "bathrooms": 2,
+        "garage": 1,
+        "bedrooms": 3,
+        "sq_ft": 1500
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Gkv1fnb/img-1-5.jpg",
+        "title": "Spacious Family Home",
+        "description": "Discover this spacious family home offering 2800 square feet of living space. It features four large bedrooms, including a master suite with a walk-in closet and a luxurious en-suite bathroom with a soaking tub and separate shower. The remaining bedrooms share a large family bathroom and a guest powder room. The open-plan living and dining area is perfect for gatherings, with ample natural light and views of the landscaped backyard. The modern kitchen is equipped with high-end appliances, granite countertops, and a large island for casual dining. Additional spaces include a dedicated home office, a playroom for children, and a cozy family room with a fireplace. Outside, enjoy a patio, a swimming pool, and a spacious lawn for outdoor activities. With a two-car garage, there's plenty of room for vehicles and storage. Located in a family-friendly neighborhood, this home offers top-rated schools and amenities for a comfortable family lifestyle.",
+        "price": 500000,
+        "bathrooms": 3,
+        "garage": 2,
+        "bedrooms": 4,
+        "sq_ft": 2800
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/P58jztt/img-1-6.jpg",
+        "title": "Elegant Townhouse",
+        "description": "Indulge in luxury living with this elegant townhouse offering 1800 square feet of sophisticated space. It features three spacious bedrooms, including a master suite with a walk-in closet and a beautifully appointed en-suite bathroom. The other bedrooms share a well-appointed family bathroom. The open-plan living and dining area is perfect for entertaining, with large windows offering views of the neighborhood. The modern kitchen is equipped with high-end appliances, sleek cabinetry, and a large island for casual dining. Additional features include a cozy family room with a fireplace, a dedicated home office, and a guest powder room. Outside, enjoy a private patio for outdoor dining and relaxation. A single-car garage provides secure parking. Located in a desirable neighborhood, this home is close to shops, restaurants, and public transport, offering convenience and luxury for urban living.",
+        "price": 400000,
+        "bathrooms": 3,
+        "garage": 1,
+        "bedrooms": 3,
+        "sq_ft": 1800
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/pWy995p/img-1-7.jpg",
+        "title": "Contemporary Condo",
+        "description": "Experience contemporary living in this stylish condo located in the heart of the city. With 1000 square feet of living space, it features two spacious bedrooms, including a master suite with a walk-in closet and an en-suite bathroom. The second bedroom is served by a well-appointed family bathroom. The open-plan living and dining area is perfect for entertaining, with large windows offering views of the city skyline. The modern kitchen is equipped with high-end appliances, sleek cabinetry, and a large island for casual dining. Additional spaces include a cozy family room with a fireplace, a dedicated home office, and a guest powder room. Outside, enjoy a private balcony for outdoor dining and relaxation. A single-car garage provides secure parking. Located in a vibrant neighborhood, this condo offers proximity to shops, restaurants, and public transport, making it an ideal choice for urban living.",
+        "price": 320000,
+        "bathrooms": 2,
+        "garage": 1,
+        "bedrooms": 2,
+        "sq_ft": 1000
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/XLLJNdW/img-1-8.jpg",
+        "title": "Rustic Farmhouse",
+        "description": "Escape to the tranquility of this rustic farmhouse set on five acres of land. With 2500 square feet of living space, it features four spacious bedrooms and three bathrooms. The master suite includes a large en-suite bathroom with a clawfoot tub and a separate shower. The remaining bedrooms offer views of the countryside and share a well-appointed family bathroom. The farmhouse features a cozy living room with a stone fireplace, perfect for relaxing evenings. The kitchen is spacious and well-equipped, with a farmhouse sink, butcher block countertops, and a large dining area for family gatherings. Outside, the property includes a barn, a workshop, and space for gardening or animals. Enjoy panoramic views from the wrap-around porch, creating a serene retreat. Located in a peaceful location with proximity to schools and shops, this farmhouse offers rustic charm and modern comfort for a relaxing lifestyle.",
+        "price": 600000,
+        "bathrooms": 3,
+        "garage": 0,
+        "bedrooms": 4,
+        "sq_ft": 2500
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/6tHkWwM/img-1-9.jpg",
+        "title": "Seaside Villa",
+        "description": "Luxuriate in this seaside villa offering 4000 square feet of living space with stunning ocean views. It features five beautifully appointed bedrooms, each with an en-suite bathroom and a private balcony overlooking the sea. The master suite includes a spacious walk-in closet and a luxurious bathroom with a soaking tub and separate shower. The remaining bedrooms offer comfort and privacy for guests. The open-plan living and dining area boasts floor-to-ceiling windows showcasing panoramic ocean views. The modern kitchen is equipped with high-end appliances, custom cabinetry, and a large island for casual dining. Additional spaces include a media room, a home office, and a fitness center. Outside, enjoy multiple terraces, a swimming pool, and landscaped gardens for outdoor living. With a three-car garage and ample parking, there's plenty of space for vehicles and storage. Located in an exclusive coastal community, this villa offers luxurious living with access to a private beach for the ultimate seaside retreat.",
+        "price": 1500000,
+        "bathrooms": 5,
+        "garage": 3,
+        "bedrooms": 5,
+        "sq_ft": 4000
+    }
+]
